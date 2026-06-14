@@ -1,0 +1,5 @@
+# Esta pasta é a saída do build (o que o GitHub Pages serve na raiz).
+# Ignora apenas lixo que nunca deve ir para o site publicado.
+.DS_Store
+Thumbs.db
+dev/
