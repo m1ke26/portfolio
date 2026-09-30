@@ -6,4 +6,4 @@
 :HL["/portfolio/assets/static/media/f5031e7b18bdfbb3-s.p.17530ebvtj~5g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio/isc2-cc.png","image"]
 :HL["/portfolio/arcx.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"1ViaeBBktYLX4oQIRc5ae"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-N2r2hHNUTgEOUv_xhcKA"}
